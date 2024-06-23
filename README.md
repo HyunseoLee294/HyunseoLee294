@@ -1,5 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning in the Department of Linguistics of Korea University
+- 📫 How to reach me: 1qalke@korea.ac.kr
+- 😄 Pronouns: She
 <!--
 **HyunseoLee294/HyunseoLee294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
